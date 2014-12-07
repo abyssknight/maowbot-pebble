@@ -39,35 +39,25 @@ main.on('click', 'select', function(e) {
   var menu = new UI.Menu({
     sections: [{
       items: [{
-        title: 'Stop',
-        subtitle: 'Subtitle Text'
+        title: 'Stop'
       },{
-        title: 'Maow On',
-        subtitle: 'Can do Menus'
+        title: 'Maow On'
       }, {
-        title: 'Maow Off',
-        subtitle: 'Subtitle Text'
+        title: 'Maow Off'
       }, {
-        title: 'Wag Left',
-        subtitle: 'Subtitle Text'
+        title: 'Wag Left'
       }, {
-        title: 'Wag Right',
-        subtitle: 'Subtitle Text'
+        title: 'Wag Right'
       }, {
-        title: 'Center Tail',
-        subtitle: 'Subtitle Text'
+        title: 'Center Tail'
       }, {
-        title: 'Up',
-        subtitle: 'Subtitle Text'
+        title: 'Up'
       }, {
-        title: 'Down',
-        subtitle: 'Subtitle Text'
+        title: 'Down'
       }, {
-        title: 'Left',
-        subtitle: 'Subtitle Text'
+        title: 'Left'
       }, {
-        title: 'Right',
-        subtitle: 'Subtitle Text'
+        title: 'Right'
       }
       ]
     }]
